@@ -26,6 +26,9 @@ The motors perform the following movement sequence:
 
 ## Motor Driver Connections
 
+## Circut Diagram
+![4 DC Motors Circuit]()
+
 ### Left L293D
 
 * IN1 and IN4 → Arduino D2
