@@ -26,8 +26,6 @@ The motors perform the following movement sequence:
 
 ## Motor Driver Connections
 
-## Circuit Diagram
-![4 DC Motors Circuit](Exquisite%20Habbi-Hillar.png)
 
 ### Left L293D
 
@@ -40,6 +38,9 @@ The motors perform the following movement sequence:
 * IN2 and IN3 → Arduino D5
 
 The Enable pins are connected to **5V** to activate the motor drivers.
+
+## Circuit Diagram
+![4 DC Motors Circuit](Exquisite%20Habbi-Hillar.png)
 
 ## Movement Sequence
 
