@@ -26,8 +26,8 @@ The motors perform the following movement sequence:
 
 ## Motor Driver Connections
 
-## Circut Diagram
-![4 DC Motors Circuit](Exquisite Habbi-Hillar.png)
+## Circuit Diagram
+![4 DC Motors Circuit](Exquisite%20Habbi-Hillar.png)
 
 ### Left L293D
 
